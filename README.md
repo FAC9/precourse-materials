@@ -31,7 +31,7 @@ FAC ❤️s open source. You'll be using Git and GitHub in everything you build 
 You'll be using the command line a lot during the course, so do take the time to get comfortable working with it – we can recommend [Getting to Know the Command Line](https://www.davidbaumgold.com/tutorials/command-line/) as a good introduction.
 
 ####DOM Manipulation
-The #1 thing we wish we'd known more about when we started at FAC is DOM manipulation. [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) and [Tuts+](http://code.tutsplus.com/tutorials/javascript-and-the-dom-series-lesson-1--net-3134) have good guides to the DOM, and you can take a stab at this [DOM manipulation tutorial](https://dom-tutorials.appspot.com/static/index.html). There's also a handy guide [http://callmenick.com/post/basics-javascript-dom-manipulation](here) to different forms of manipulation.
+The #1 thing we wish we'd known more about when we started at FAC is DOM manipulation. [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) and [Tuts+](http://code.tutsplus.com/tutorials/javascript-and-the-dom-series-lesson-1--net-3134) have good guides to the DOM, and you can take a stab at this [DOM manipulation tutorial](https://dom-tutorials.appspot.com/static/index.html). There's also a handy guide [here](http://callmenick.com/post/basics-javascript-dom-manipulation) to different forms of manipulation.
 
 ####APIs
 You'll be using APIs in a number of your projects, so a basic understanding of what APIs are and how they function will be very useful. Luckily, Zapier have published a [really accessible introduction](https://zapier.com/learn/apis/) to the topic that you should take a look at.
